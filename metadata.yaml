@@ -1,0 +1,35 @@
+_repo: Little-Gidding-and-its-inmates-in-the-Time-of-King-Charles-I.with-an-account-of-the-Harmonies_24984
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Acland, John Edward
+    birthdate: 1848
+    deathdate: 1932
+    gutenberg_agent_id: '26862'
+    url: http://www.gutenberg.org/2009/agents/26862
+description: In the early 1600s, an Anglican religious community was established by
+  members of the Ferrar family in the small English village of Little Gidding. Though
+  the community was informally organized and did not require its members to take vows,
+  it was still the object of controversy, as many critics regarded it as a kind of
+  Anglican monastery that bore a strong resemblance to Catholic orders. This historical
+  analysis of the Little Gidding community focuses on the Ferrar family's ...
+gutenberg_issued: '2008-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24984'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Gospels -- Harmonies, English'
+- !lcsh 'Little Gidding (Christian community)'
+- !lcsh 'Ferrar, Nicholas, 1592-1637'
+- !lcc 'BX'
+title: 'Little Gidding and its inmates in the Time of King Charles I.
+
+  with an account of the Harmonies'
+url: http://www.gutenberg.org/ebooks/24984
